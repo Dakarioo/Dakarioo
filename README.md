@@ -42,7 +42,35 @@ dans un environnement orienté performance
 
 ---
 
-> “La donnée est le moteur invisible de la performance.”
+## 🚀 Projects
+
+### 🏗 Industrialisation d’un Datawarehouse
+Conception d’un entrepôt de données :
+- Modélisation en étoile
+- Processus ETL
+- Centralisation de sources hétérogènes
+- Restitution décisionnelle
+
+🔗 [Voir le projet](https://github.com/TON-USERNAME/nom-du-repo)
+
+---
+
+### 🌍 Application Python orientée objet (API & scraping)
+- Intégration d’API
+- Structuration des données
+- Génération automatique de fichiers CSV
+- Architecture orientée objet
+
+🔗 [Voir le projet](https://github.com/TON-USERNAME/nom-du-repo)
+
+---
+
+### 📊 Dashboard décisionnel
+- Création d’indicateurs de performance
+- Visualisation Power BI / Qlik
+- Analyse exploratoire
+
+🔗 [Voir le projet](https://github.com/TON-USERNAME/nom-du-repo)
 
 ---
 

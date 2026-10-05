@@ -1,93 +1,131 @@
 # 👋 Salut, moi c’est Antonin
 
-🎓 Étudiant en BUT Science des Données  
-📊 Spécialisation : Data Analyse & Data Engineering  
-🏎️ Passionné par le sport automobile  
+🎓 Étudiant en **BUT Science des Données**  
+📊 Orientation **Data Analyst**, avec un intérêt pour le **Data Engineering**  
+🔎 À la recherche d’un **stage en Data Analyse**  
+🏎️ Passionné par la **data appliquée au sport automobile**
 
 ---
 
-## 🧠 Ma vision
+## 🧠 À propos de moi
 
-Dans le sport automobile, la performance ne repose pas uniquement sur la mécanique,  
-elle repose sur la donnée.
+J’aime transformer des données brutes en informations exploitables : comprendre un problème, structurer les données, les analyser puis construire une restitution claire permettant de prendre des décisions.
 
-Stratégie, optimisation, anticipation :  
-la donnée est un levier décisif.
+Au cours de ma formation et de mes projets, j’ai travaillé sur différentes problématiques autour de :
 
-Je développe des compétences en :
+- l’analyse statistique et exploratoire ;
+- la création de dashboards et d’indicateurs ;
+- la modélisation de bases de données et de Data Warehouses ;
+- la conception de processus ETL ;
+- l’exploitation et le nettoyage de données issues de sources multiples ;
+- l’automatisation de traitements de données.
 
-- Analyse de données avec Python & SQL
-- Conception de pipelines ETL
-- Modélisation de Datawarehouse
-- Création de dashboards décisionnels (Power BI, Qlik)
-- Exploitation d’API (données sportives, météo, performance)
-
----
-
-## 🏁 Ce qui m’intéresse particulièrement
-
-- Performance analytics
-- Simulation & optimisation
-- Structuration de données complexes
-- Industrialisation des flux
-- Data au service de la stratégie
+Le **sport automobile** représente également un domaine qui m’intéresse particulièrement, notamment autour de la télémétrie, de l’analyse de performance et de l’optimisation par la donnée.
 
 ---
 
-## 🎯 Objectif professionnel
+## 💼 Expérience
 
-Évoluer vers un poste de Data Analyst / Data Engineer  
-dans un environnement orienté performance  
-(industrie, mobilité, sport automobile, innovation technologique).
+### Data Analyst — AGESYS
 
----
+Développement d'une solution de pilotage autour du **Budget Individuel de Formation (BIFOR)** :
 
-## 🚀 Projects
-
-### 🏗 Industrialisation d’un Datawarehouse
-Conception d’un entrepôt de données :
-- Modélisation en étoile
-- Processus ETL
-- Centralisation de sources hétérogènes
-- Restitution décisionnelle
-
-🔗 [Voir le projet](https://github.com/TON-USERNAME/nom-du-repo)
+- conception de dashboards Power BI ;
+- modélisation et transformation des données ;
+- création de mesures DAX ;
+- automatisation de traitements avec Power Automate ;
+- intégration de données SharePoint et de sources externes ;
+- gestion des droits d'accès aux données avec RLS ;
+- reconstitution et historisation de données avec Python.
 
 ---
 
-### 🌍 Application Python orientée objet (API & scraping)
-- Intégration d’API
-- Structuration des données
-- Génération automatique de fichiers CSV
-- Architecture orientée objet
+## 🚀 Projets
 
-🔗 [Voir le projet](https://github.com/TON-USERNAME/nom-du-repo)
+### 🚦 Analyse des accidents routiers
 
----
+Projet d'analyse des accidents corporels de la circulation routière à partir des données ouvertes françaises.
 
-### 📊 Dashboard décisionnel
-- Création d’indicateurs de performance
-- Visualisation Power BI / Qlik
-- Analyse exploratoire
+**Objectif :** étudier si les accidents de nuit sont plus graves en raison de contextes routiers différents.
 
-🔗 [Voir le projet](https://github.com/TON-USERNAME/nom-du-repo)
+- nettoyage et préparation des données ;
+- analyse univariée et bivariée ;
+- statistiques ;
+- modélisation multidimensionnelle ;
+- conception d'un schéma en étoile ;
+- préparation d'un Data Warehouse et d'un processus ETL.
 
 ---
 
-## 🛠 Tech Stack
+### 🏗 Data Warehouse & ETL
 
-### 📊 Data & Analytics
+- modélisation en étoile ;
+- tables de staging ;
+- conception d'un Data Warehouse sous Oracle ;
+- développement de flux ETL avec ODI ;
+- préparation des données pour l'analyse décisionnelle.
+
+---
+
+### 🌍 Application Python — API & Web Scraping
+
+- consommation d'API ;
+- web scraping ;
+- programmation orientée objet ;
+- nettoyage et transformation des données ;
+- génération de fichiers structurés ;
+- visualisation géographique.
+
+---
+
+### 📊 Business Intelligence
+
+- Power BI ;
+- DAX ;
+- Power Query ;
+- Qlik.
+
+---
+
+## 🛠 Stack
+
+### Data Analysis
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Business Intelligence
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
 
-### 🏗 Data Engineering
-![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-blue?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Modeling-orange?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Data Engineering
 
-### ⚙️ Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-ETL-CC2927?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Star_Schema-orange?style=for-the-badge)
+
+### Automatisation & Data
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
+### Développement
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## 🏁 Ce qui m'intéresse
+
+`Data Analysis` • `Business Intelligence` • `Data Engineering` • `ETL` • `Data Warehouse` • `Performance Analytics` • `Motorsport Data`
+
+---
+
+## 📫 Me retrouver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-cavory-dupuis-247933268)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-000000?style=for-the-badge&logo=vercel&logoColor=white)](TON-LIEN-PORTFOLIO)
